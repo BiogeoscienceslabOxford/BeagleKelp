@@ -11,7 +11,7 @@ Multiyear maps:
 
 Agua Fresca: https://code.earthengine.google.com/f22e097ee30487d882469307e31a78da 
 
-Goree Roads: https://code.earthengine.google.com/0975d4b7cdcdf142153bc77083b2ce2f 
+Goree Roads: https://code.earthengine.google.com/ebca06f9e3327d8c9e937a9e211aee54
 
 Laredo: https://code.earthengine.google.com/3b2132982d155e5afc2df4ebae1251a6
 
