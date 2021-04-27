@@ -23,7 +23,7 @@ Wollaston: https://code.earthengine.google.com/95714101bc740acbb3df117652ea5e37
 
 South Georgia: https://code.earthengine.google.com/b3dcd842b23666132b395f763a0110f4 
 
-Falkland Is. https://code.earthengine.google.com/85ba7639053ef04a4eba3591829a7fe1 
+Falkland Is. https://code.earthengine.google.com/b427f63c568243fbdfbcdb752fbfdf8f
 
 Deseado: https://code.earthengine.google.com/adce87e83f2ed4e055da40eadafe57d1
 
