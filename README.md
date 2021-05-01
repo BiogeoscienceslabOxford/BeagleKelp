@@ -1,5 +1,5 @@
 # Beagle Kelp project
-BeagleKelpMaps
+BeagleKelpMaps and supplementary information
 
 This is the repository of the original code https://biogeoscienceslaboxford.users.earthengine.app/view/beaglekelpcharts
 
